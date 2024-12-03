@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yu Zhang / HomePage"
+title                    : "Yu Zhang (张羽) / HomePage"
 title_separator          : "-"
 name                     : &name "Yu Zhang"
 description              : &description "personal description"

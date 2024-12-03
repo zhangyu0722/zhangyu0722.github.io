@@ -12,7 +12,7 @@ title                    : "Yu Zhang (张羽) / HomePage"
 title_separator          : "-"
 name                     : &name "Yu Zhang"
 description              : &description "personal description"
-url                      : "https://zhangyu0722.github.io"
+url                      : https://zhangyu0722.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 

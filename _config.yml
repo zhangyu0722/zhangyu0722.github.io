@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "111.png"
+  avatar           : "profile.png"
   name             : "Yu Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Keep moving forward, persistence is the greatest gift life can offer"

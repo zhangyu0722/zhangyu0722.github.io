@@ -13,7 +13,7 @@ My research interests include inference acceleration for large language models (
 
 
 
-##  Publications
+##  📘 📖 Publications
 ### Journal Articles
 -  **[TJSC]** Y Zhang, L Lu, R Zhao, Y Guo, and Z Yang, "An efficient quantized GEMV implementation for large language models inference with matrix core".
   

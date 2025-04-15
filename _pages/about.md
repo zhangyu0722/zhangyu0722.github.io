@@ -11,15 +11,13 @@ Hi! I’m a Ph.D. student majoring in computer science in the [School of Compute
 
 My research interests include inference acceleration for large language models (LLMs), GEMM optimization, and parallel computing acceleration techniques for AI. I focus on improving computational efficiency and scalability through hardware-aware optimization and parallel processing.
 
-Publications
-======
 
 
 # Selected Publications
-
+## Journal Publications
 ## Conference Publications
 
-- **[WWW 2025]** Yuhao Gu, Junyu Chen, Jiangsu Du, Xiaoxi Zhang, and Xianwei Zhang, "ORFA: A WebAssembly-based Runtime to Optimize Remote Procedure Calls with Complete Expressiveness".
+- 📝 **[WWW 2025]** Yuhao Gu, Junyu Chen, Jiangsu Du, Xiaoxi Zhang, and Xianwei Zhang, "ORFA: A WebAssembly-based Runtime to Optimize Remote Procedure Calls with Complete Expressiveness".
 
 - **[VLDB 2025]** Qingyin Lin, Jiangsu Du, Rui Li, Zhiguang Chen, Wenguang Chen, and Nong Xiao, "IncrCP: Decomposing and Orchestrating Incremental Checkpoints for Effective Recommendation Model Training".
 

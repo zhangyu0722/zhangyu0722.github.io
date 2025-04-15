@@ -13,21 +13,21 @@ My research interests include inference acceleration for large language models (
 
 
 
-# Selected Publications
+#  Publications
 ## Journal Articles
-- 📝 **[TJSC]** Y Zhang, L Lu, R Zhao, Y Guo, and Z Yang, "An efficient quantized GEMV implementation for large language models inference with matrix core".
+-  **[TJSC]** Y Zhang, L Lu, R Zhao, Y Guo, and Z Yang, "An efficient quantized GEMV implementation for large language models inference with matrix core".
   
-- 📝 **[JSA]** Y Zhang, L Lu, Z Yang, Z Liang, and S Suo, "A load-balanced acceleration method for small and irregular batch matrix multiplication on GPU".
+-  **[JSA]** Y Zhang, L Lu, Z Yang, Z Liang, and S Suo, "A load-balanced acceleration method for small and irregular batch matrix multiplication on GPU".
 
-- 📝 **[JSA]** Y Zhang, L Lu, Z Yang, Z Liang, and S Suo, "LE-GEMM: A lightweight emulation-based GEMM with precision refinement on GPU".
+-  **[JSA]** Y Zhang, L Lu, Z Yang, Z Liang, and S Suo, "LE-GEMM: A lightweight emulation-based GEMM with precision refinement on GPU".
 
-- 📝 **[MPE]** H Yao, Y Zhang, Y Wei, and Y Tian, "ORFA: A WebAssembly-based Runtime to Optimize Remote Procedure Calls with Complete Expressiveness".
+-  **[MPE]** H Yao, Y Zhang, Y Wei, and Y Tian, "Broad learning system with locality sensitive discriminant analysis for hyperspectral image classification".
 
-- 📝 **[IJDSN]** H Yao, M Yang, T Chen, Y Wei, and Y Zhang, "Depth-based human activity recognition via multi-level fused features and fast broad learning system".
+-  **[IJDSN]** H Yao, M Yang, T Chen, Y Wei, and Y Zhang, "Depth-based human activity recognition via multi-level fused features and fast broad learning system".
 
 
 
-## Conference Papers
+<!-- ## Conference Papers -->
 
 
 

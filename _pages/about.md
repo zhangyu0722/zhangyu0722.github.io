@@ -13,6 +13,18 @@ My research interests include inference acceleration for large language models (
 
 Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+
+
+# Selected Publications
+
+## Conference Publications
+
+- **[WWW 2025]** Yuhao Gu, Junyu Chen, Jiangsu Du, Xiaoxi Zhang, and Xianwei Zhang, "ORFA: A WebAssembly-based Runtime to Optimize Remote Procedure Calls with Complete Expressiveness".
+
+- **[VLDB 2025]** Qingyin Lin, Jiangsu Du, Rui Li, Zhiguang Chen, Wenguang Chen, and Nong Xiao, "IncrCP: Decomposing and Orchestrating Incremental Checkpoints for Effective Recommendation Model Training".
+
+- **[ASPLOS 2025]** Shenggan Cheng, Shengjie Lin, Lansong Diao, Hao Wu, Siyu Wang, Chang Si, Ziming Liu, Xuanlei Zhao, Jiangsu Du, Wei Lin, and Yang You, "Concerto: Automatic Communication Optimization and Scheduling for Large-Scale Deep Learning".
+
+- **[PPoPP 2024]** Jiangsu Du, Jinhui Wei, Jiazhi Jiang, Shenggan Cheng, Dan Huang, Zhiguang Chen, Yulong Lu, "Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference".
 
 
